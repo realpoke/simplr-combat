@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="simplr_combat">
+    <output-path>$USER_HOME$/OSBot/Scripts</output-path>
+    <root id="archive" name="simplr_combat.jar">
+      <element id="module-output" name="simplrcombat" />
+    </root>
+  </artifact>
+</component>
